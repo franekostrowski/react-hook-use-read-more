@@ -2,7 +2,7 @@
   "name": "react-hook-use-read-more",
   "version": "0.1.0",
   "license": "MIT",
-  "author": "Franciszek Ostrowski",
+  "author": "@franekostrowski",
   "main": "dist/index.js",
   "module": "dist/react-hook-use-read-more.esm.js",
   "typings": "dist/index.d.ts",
