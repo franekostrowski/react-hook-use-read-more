@@ -51,11 +51,9 @@
   ],
   "devDependencies": {
     "@size-limit/preset-small-lib": "^7.0.8",
-    "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react-hooks": "^8.0.1",
     "@tsconfig/create-react-app": "^1.0.2",
     "@tsconfig/recommended": "^1.0.1",
-    "@types/jest": "^28.1.5",
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "dts-cli": "^1.5.2",
