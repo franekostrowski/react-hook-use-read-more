@@ -14,4 +14,3 @@ export type Config = {
    */
   firstPartMaxLength?: number;
 };
-

@@ -1,3 +1,3 @@
-import useReadMore from "./useReadMore"
+import useReadMore from './useReadMore';
 
-export default useReadMore
+export default useReadMore;
