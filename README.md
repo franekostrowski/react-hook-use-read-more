@@ -1,6 +1,6 @@
 # react-hook-use-read-more 📖
 
-React hook for quick and elegant use in read more buttons
+React hook for quick and elegant use in read more buttons. Enjoy 🤗
 
 ## Installation 
 
