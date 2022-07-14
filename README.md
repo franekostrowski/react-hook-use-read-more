@@ -18,6 +18,24 @@ yarn add react-hook-use-read-more
 
 ## Usage
 
+```typescript
+
+useReadMore(text: string, config?: Config)
+
+```
+
+```typescript
+
+type Config = {
+  treshold?: number
+  firstPartMaxLength?: number
+}
+
+```
+
+  - <b>treshold</b> (number, optional, default: 50): percent of text set as excerpt (firstPart) [See example](#custom-treshold)
+  - <b>firstPartMaxLength</b> [number, optional, default: -1 (disabled, unlimited length)]: max length of excerpt (firstPart) [See example](#custom-firstpartmaxlength)
+
 ### Basic
 
 ```typescript
