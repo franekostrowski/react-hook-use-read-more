@@ -1,6 +1,6 @@
 # react-hook-use-read-more 📖
 
-React hook for quick and elegant use in read more buttons. Enjoy 🤗
+Code for read more buttons can get cumbersome when there is some conditional string splitting and slicing involved. I couldn't find any open source hooks that would take care of it so there it is. React hook for quick and elegant use in read more buttons! Enjoy 🤗
 
 ## Installation 
 
