@@ -20,6 +20,12 @@ yarn add react-hook-use-read-more
 
 ```typescript
 
+const { firstPart, secondPart } = useReadMore("Lorem ipsum dolor sit amet")
+
+```
+
+```typescript
+
 useReadMore(text: string, config?: Config)
 
 ```
